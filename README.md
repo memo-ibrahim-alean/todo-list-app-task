@@ -24,5 +24,6 @@ Follow these steps to get the project up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd todo-list-app
+   git clone https://github.com/memo-ibrahim-alean/todo-list-app-task.git
+   cd todo-list-app-task
+   npm start
